@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#192A56</color>
+    <color name="colorPrimaryDark">#0A3D62</color>
+    <color name="colorAccent">#192A56</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lavender">#8692f7</color>
+    <color name="pastel_pink">#FFB3BA</color>
+    <color name="pastel_purple">#D47CFF</color>
+    <color name="pastel_blue">#BAE1FF</color>
+    <color name="blue">#6C7378</color>
+
+</resources>
